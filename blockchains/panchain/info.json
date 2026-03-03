@@ -1,0 +1,12 @@
+{
+  "name": "Panchain",
+  "website": "https://panchain.io",
+  "description": "Panchain is an EVM compatible Layer 1 blockchain network.",
+  "explorer": "https://scan.panchain.io",
+  "research": "",
+  "symbol": "PC",
+  "decimals": 18,
+  "status": "active",
+  "rpc_url": "https://publicrpc.panchain.io",
+  "chain_id": "7890"
+}
